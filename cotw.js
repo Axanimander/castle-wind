@@ -1060,7 +1060,7 @@ Engi.GS.map.addtileevent(0, 0, 1)
 Engi.GS.tileArray.populateSpriteLocArray()
 it = new Item(2);
 it2 = new Item(3);
-npc = new NPC("ted", 10, 10, 10, 10, 10, 1, 3, 3, 1, 0, 0);
+npc = new NPC("ted", 10, 10, 10, 10, 10, 1, 6, 8, 1, 0, 0);
 Engi.GS.addnpc(npc);
 Engi.GS.map.tilemap[5].additem(it)
 Engi.GS.map.tilemap[4].additem(it);
